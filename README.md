@@ -1,2 +1,2 @@
 # hello-world
-idkwhy
+print("Hello World")
